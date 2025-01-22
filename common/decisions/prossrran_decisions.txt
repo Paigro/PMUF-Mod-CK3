@@ -1,0 +1,58 @@
+submit_to_prossrans_decision = {
+
+	picture = {
+		reference = "gfx/interface/illustrations/decisions/decision_personal_religious.dds"
+	}
+
+	selection_tooltip = convert_to_local_culture_decision_tooltip
+
+	# AI: 0 means that the AI never checks the decision.
+	ai_check_frequency = 0	
+
+	# Cost of the decision.
+	cost = {
+		prestige = 1000
+	}
+	
+	# Show decision only if the character is not Prossrran.
+	is_shown = {
+        NOT = { has_trait = trait_prossrran }
+    }
+	
+	# Effects of the decision. Removes Tierran trait and adds Prossrran trait.
+	effect = {
+        remove_trait = trait_tierran
+        add_trait = trait_prossrran
+    }
+}
+
+ask_prossrrans_for_help_decision = {
+
+	picture = {
+		reference = "gfx/interface/illustrations/decisions/decision_personal_religious.dds"
+	}
+
+	selection_tooltip = convert_to_local_culture_decision_tooltip
+
+	# AI: every 24 months.
+	ai_check_frequency = 24
+
+	# Cooldown of the decision.
+	cooldown = { year = 1 }
+
+	# Cost of the decision.
+	cost = {
+		prestige = 2000
+		piety = 2000
+	}
+	
+	# Show decision only if the character is Prossrran.
+	is_shown = {
+        has_trait = trait_prossrran 
+    }
+	
+	# Effects of the decision. Adds gold.
+	effect = {
+        add_gold = 5000
+    }
+}

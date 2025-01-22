@@ -1,0 +1,59 @@
+﻿trait_prossrran = {
+	index = 12356
+
+	category = lifestyle
+	shown_in_ruler_designer = yes
+	ruler_designer_cost = 200
+	
+	# Opposite traits.
+	opposites = {
+		trait_tierran
+	}
+	
+	# What the trait gives to the character.
+	prowess = 5
+	stewardship = 5
+	development_growth = 0.5
+	monthly_income = 10
+	vassal_opinion = -20
+	
+	random_creation = 0
+	
+	same_opinion = 20
+	opposite_opinion = -50
+
+	# Compatibility with other traits in events, etc.
+	compatibility = {
+		trait_tierran = @neg_compat_high
+	}
+}
+
+trait_tierran = {
+	index = 12357
+		
+	category = lifestyle
+	shown_in_ruler_designer = yes
+	ruler_designer_cost = 0
+	
+	# Opposite traits.
+	opposites = {
+		trait_prossrran
+	}
+	
+	# What the trait gives to the character.
+	monthly_piety = 1
+	
+	same_opinion = 10
+	opposite_opinion = -50
+	
+	# Always appear in random creation of characters.
+	random_creation = 1
+	
+	# Compatibility with other traits in events, etc.
+	compatibility = {
+		trait_prossrran = @neg_compat_high
+	}
+	
+	# If both parents have the trait, it is always going to be inherit.
+	both_parent_has_trait_inherit_chance = 100
+}

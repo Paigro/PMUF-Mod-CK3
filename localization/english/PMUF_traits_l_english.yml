@@ -1,0 +1,8 @@
+﻿l_english:
+    # PMUF traits:
+    trait_trait_prossrran:0 "Prossrran"
+    trait_trait_prossrran_desc:0 "This person is afiliated with the Grat Prossrran Empire."
+    trait_trait_prossrran_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] has become a subject of the Great Prossrran Empire and has their blessing."
+    trait_trait_tierran:0 "Tierran"
+    trait_trait_tierran_desc:0 "Just a person from Earth."
+    trait_trait_tierran_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] is a human from the Earth."
