@@ -1,8 +1,0 @@
-name_list_prossrran = {
-
-
-
-
-
-
-}

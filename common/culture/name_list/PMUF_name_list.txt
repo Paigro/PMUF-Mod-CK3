@@ -1,0 +1,49 @@
+name_list_prossrran = 
+{
+	# Names of mercenary orders.
+	mercenary_names = 
+	{
+		{ name = "mercenary_orange" }
+		{ name = "mercenary_yellow" }
+		{ name = "mercenary_purple" }
+		{ name = "mercenary_brown" }
+		{ name = "mercenary_blue" }
+		{ name = "mercenary_green" }
+		{ name = "mercenary_red" }
+		{ name = "mercenary_silver" }
+		{ name = "mercenary_white" }
+		{ name = "mercenary_golden" }
+	}
+
+	# Names of male characters.
+	male_names = 
+	{
+		Aetius Adrix Antalem Avarix Avmakeix Corllix Entalion Frexmin Frix Grexmin 
+		Gurnix Kakrix Kakro Kaelem Kelmix Klematix Lamka Lemx Mirxe Mortim Ornafer 
+		Ota Otto Pireix Salentix Sermix Ukxeler Veralion Veralix Venetix Xacremin 
+		Xalcemir Xalemar
+	}
+
+	# Names of female characters.
+	female_names =
+	{
+		Aeomlim Akxador Anderax Anterim Arka Atrix Baertix Barnax Brix Celerix Cernix 
+		Cetix Cirlex Craxnim Dinax Etlerix Firivel Freaxm Gurtim Ilix Irnax Kaelim 
+		Kaelix Kilix Lorxim Luex Maentim Marex Nevix Patrix Pirix Trim Veretim Vernalion 
+		Vilix Xalentix Xerna Xirifel
+	}
+
+	# Chance of naming their male child after an antecesor. Max = 100.
+	pat_grf_name_chance = 10
+	mat_grf_name_chance = 10
+	father_name_chance = 5
+
+	# Same with female child. Max = 10.
+	pat_grm_name_chance = 10
+	mat_grm_name_chance = 10
+	mother_name_chance = 5
+
+
+
+
+}
