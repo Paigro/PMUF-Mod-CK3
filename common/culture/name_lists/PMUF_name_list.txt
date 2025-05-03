@@ -1,0 +1,122 @@
+name_list_prossrran = {
+
+	# Names of mercenary orders.
+	mercenary_names = {
+		{ name = "mercenary_orange" }
+		{ name = "mercenary_yellow" }
+		{ name = "mercenary_purple" }
+		{ name = "mercenary_brown" }
+		{ name = "mercenary_blue" }
+		{ name = "mercenary_green" }
+		{ name = "mercenary_red" }
+		{ name = "mercenary_silver" }
+		{ name = "mercenary_white" }
+		{ name = "mercenary_golden" }
+	}
+
+	# Names of male characters.
+	male_names = {
+		Aetius Adraxmer Adrix Agmi Amporim Antalem Armin Armin-Mileax Avarix Avmakeix Corllix Darmix Entalion 
+		Frexmin Frix Grexmin Gurnix Kakrix Kakro Kaelem Kelmix Klematix Lamka Lemx Luxamin Mileax 
+		Mirxe Mortim Ornafer Ota Otto Pireix Salentix Sermix Ukxeler Veralion Veralix Venetix Vig 
+		Xacremin Xalcemir Xalemar
+	}
+
+	# Names of female characters.
+	female_names = {
+		Aeomlim Akxador Anderax Anterim Arka Atrix Baertix Barnax Brix Caramix Celerix Cernix 
+		Cetix Ciriletam Cirlex Craxnim Dinax Elx Ervix Etlerix Examix Firivel Freaxm Gurtim Ilix 
+		Irnax Kaelim Kaelix Kilix Lax Lorix Lorxim Lucix Luex Maentim Marex Naxam Nerxa Nevix 
+		Patrix Pirix Traxmenim Trim Veretim Vernalion Vilix Xalentix Xerna Xirifel Yllam
+	}
+	# Names of dynasties.
+	dynasty_names = {
+		"dynn_Alemir"
+		"dynn_Atiex"
+		"dynn_Xalaxian"
+		"dynn_Vermalion"
+		"dynn_Etalion"
+		"dynn_Varemir"
+		"dynn_Grexmarin"
+		"dynn_Ile_Xi"
+		"dynn_Ormamir"
+		"dynn_Xeferion"
+		"dynn_Uta_Xalantix"
+		"dynn_Ox_Ucrex"
+		"dynn_Xareferim"
+		"dynn_Sacxaremix_Emirix"
+		"dynn_Falemir"
+		"dynn_Dietalix"
+		"dynn_Mixelar"
+		"dynn_Xonix"
+		"dynn_Ceremilix"
+		"dynn_Vermix"
+		"dynn_Vermin"
+		"dynn_Xaladian"
+		"dynn_Omnix"
+		"dynn_Faremin"
+		"dynn_Velatiam"
+		"dynn_Direm"
+		"dynn_Formen"
+		"dynn_Iscalia"
+		"dynn_Termin"
+		"dynn_Trexmin"
+		"dynn_Larmiax"
+		"dynn_Mixareax"
+		"dynn_Narix"
+		"dynn_Graxtim"
+		"dynn_Ilitabel"
+		"dynn_Xando"
+		"dynn_Paratix"
+	}
+	# Names of cadets. The same cause yes.
+	cadet_dynasty_names = {
+		"dynn_Alemir"
+		"dynn_Atiex"
+		"dynn_Xalaxian"
+		"dynn_Vermalion"
+		"dynn_Etalion"
+		"dynn_Varemir"
+		"dynn_Grexmarin"
+		"dynn_Ile_Xi"
+		"dynn_Ormamir"
+		"dynn_Xeferion"
+		"dynn_Uta_Xalantix"
+		"dynn_Ox_Ucrex"
+		"dynn_Xareferim"
+		"dynn_Sacxaremix_Emirix"
+		"dynn_Falemir"
+		"dynn_Dietalix"
+		"dynn_Mixelar"
+		"dynn_Xonix"
+		"dynn_Ceremilix"
+		"dynn_Vermix"
+		"dynn_Vermin"
+		"dynn_Xaladian"
+		"dynn_Omnix"
+		"dynn_Faremin"
+		"dynn_Velatiam"
+		"dynn_Direm"
+		"dynn_Formen"
+		"dynn_Iscalia"
+		"dynn_Termin"
+		"dynn_Trexmin"
+		"dynn_Larmiax"
+		"dynn_Mixareax"
+		"dynn_Narix"
+		"dynn_Graxtim"
+		"dynn_Ilitabel"
+		"dynn_Xando"
+		"dynn_Paratix"
+	}
+
+	# Chance of naming their male child after an antecesor. Max = 100.
+	pat_grf_name_chance = 10
+	mat_grf_name_chance = 10
+	father_name_chance = 5
+
+	# Same with female child. Max = 10.
+	pat_grm_name_chance = 10
+	mat_grm_name_chance = 10
+	mother_name_chance = 5
+}

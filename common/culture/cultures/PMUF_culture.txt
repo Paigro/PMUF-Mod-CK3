@@ -1,5 +1,7 @@
 prossrran_culture = {
 
+	name =  prossrran_culture
+	
 	color = { 1.0 0.5 0.0 } # Color in the map.
 	
 	created = 500.1.1 # Date of creation. Alomejor se ralla con el -60000.
@@ -21,5 +23,9 @@ prossrran_culture = {
 	building_gfx = { iberian_building_gfx }
 	clothing_gfx = { iberian_christian_clothing_gfx western_clothing_gfx }
 	unit_gfx = { iberian_christian_unit_gfx }
+
+	ethnicities = {
+		10 = mediterranean
+	}
 
 }
