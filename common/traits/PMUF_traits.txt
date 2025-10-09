@@ -18,7 +18,11 @@
 	vassal_opinion = -20
 	
 	random_creation = 0
+	#birth = 1
 	
+	#genetic = yes
+	inherit_chance = 100
+
 	same_opinion = 20
 	opposite_opinion = -50
 
