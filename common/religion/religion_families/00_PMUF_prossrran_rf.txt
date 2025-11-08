@@ -1,0 +1,6 @@
+rf_prossrran = {
+	graphical_faith = catholic_gfx
+	piety_icon_group = "pagan"
+	doctrine_background_icon = core_tenet_banner_christian.dds
+	hostility_doctrine = prossrran_hostility_doctrine
+}

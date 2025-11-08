@@ -1,8 +1,8 @@
 ﻿l_english:
 # Become a  Prossrran.
- submit_to_prossrans_decision:0 "Submit to the Prossrrans."
- submit_to_prossrans_decision_desc:0 "Sometime ago a strange person came to you asking if you would submit to th Great Prossrran Empire. Now you remember that day asking yourself, should you submit?"
- submit_to_prossrans_decision_confirm:0 "I accept the offer."
+ submit_to_prossrrans_decision:0 "Submit to the Prossrrans."
+ submit_to_prossrrans_decision_desc:0 "Sometime ago a strange person came to you asking if you would submit to th Great Prossrran Empire. Now you remember that day asking yourself, should you submit?"
+ submit_to_prossrrans_decision_confirm:0 "I accept the offer."
  convert_to_local_culture_decision_tooltip:0 "You received a strange offer."
  # Ask Prossrrans for help.
  ask_prossrrans_for_help_decision:0 "Ask Prossrrans for help."

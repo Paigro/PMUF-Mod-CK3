@@ -4,16 +4,16 @@ prossrran_culture = {
 	
 	color = { 1.0 0.5 0.0 } # Color in the map.
 	
-	created = 500.1.1 # Date of creation. Alomejor se ralla con el -60000.
+	created = 500.1.1 # Date of creation.
 	heritage = heritage_prossrran # Heritage.
 	language = language_prossrran # The language.
-	ethos = ethos_bellicose # Prossrrans are bellicose in general.
+	ethos = ethos_bellicose # Prossrrans are bellicose in their nature.
 	martial_custom = martial_custom_equal # Both genders can be militar.
 	
 	traditions = {
-		tradition_metal_craftsmanship
-		# Falta el de city keepers.
-		# Buscar otro.
+		tradition_artisans
+		tradition_city_keepers
+		tradition_battlefield_looters
 	}
 	
 	

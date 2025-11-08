@@ -1,4 +1,4 @@
-submit_to_prossrans_decision = {
+submit_to_prossrrans_decision = {
 
 	picture = {
 		reference = "gfx/interface/illustrations/decisions/decision_personal_religious.dds"

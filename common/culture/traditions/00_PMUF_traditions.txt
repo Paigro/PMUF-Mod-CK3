@@ -1,0 +1,6 @@
+tradition_elemental_masters = {
+  #category = societal 
+
+  
+   
+} 
