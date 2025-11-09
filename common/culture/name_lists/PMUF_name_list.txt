@@ -1,4 +1,4 @@
-name_list_prossrran = {
+﻿name_list_prossrran = {
 
 	# Names of mercenary orders.
 	mercenary_names = {

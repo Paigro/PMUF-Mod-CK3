@@ -1,4 +1,4 @@
-hostility_group = {
+﻿hostility_group = {
 	prossrran_hostility_doctrine = {
 		parameters = {
 			hostility_same_religion = 1

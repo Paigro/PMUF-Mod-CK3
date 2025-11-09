@@ -1,4 +1,4 @@
-language_prossrran = {
+﻿language_prossrran = {
 	type = language
 	is_shown = {
 		language_is_shown_trigger = {

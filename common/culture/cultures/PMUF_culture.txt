@@ -1,4 +1,4 @@
-prossrran_culture = {
+﻿prossrran_culture = {
 
 	name =  prossrran_culture
 	

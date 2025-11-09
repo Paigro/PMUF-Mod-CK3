@@ -1,4 +1,4 @@
-prossrran_religion = {
+﻿prossrran_religion = {
 	family = rf_prossrran
 
 	doctrine_background_icon = core_tenet_banner_christian.dds
@@ -7,7 +7,6 @@ prossrran_religion = {
 	#Main Group
 	doctrine = doctrine_polytheist
 	doctrine = doctrine_spiritual_head
-	doctrine = doctrine_clerical_gender_either
 	doctrine = doctrine_pluralism_pluralistic
 	doctrine = doctrine_theocracy_lay_clergy
 
@@ -191,7 +190,6 @@ prossrran_religion = {
 		DevilNamePossessive = prossrran_devil_name_possessive
 		#----Gender
 		DevilSheHe = CHARACTER_SHEHE_HE
-		DevilHerHis = CHARACTER_HERHIS_HIS
 		DevilHerHis = CHARACTER_HERHIS_HIS
 		DevilHerselfHimself = CHARACTER_HIMSELF
 		#----Evil Names:

@@ -17,10 +17,10 @@
 	monthly_income = 10
 	vassal_opinion = -20
 	
-	random_creation = 0
-	#birth = 1
-	
 	#genetic = yes
+	random_creation = 0
+	
+	#birth = 1
 	inherit_chance = 100
 
 	same_opinion = 20
