@@ -7,8 +7,8 @@
   prossrran_religion_desc:0 "A mess of differents religions simplify and unify years ago under the same Pantheon."
 
   # High god:
-  prossrran_high_god_name:0 "Celestial Beings"
-  prossrran_high_god_name_possessive:0 "Celestial Beings's"
+  prossrran_high_god_name:0 "The Celestial Beings"
+  prossrran_high_god_name_possessive:0 "The Celestial Beings's"
   prossrran_high_god_name_alternate:0 "The Celestials"
   prossrran_high_god_name_alternate_possessive:0 "The Celestials's"
 
@@ -71,10 +71,10 @@
   prossrran_evil_god_crioxrtalllem:0 "Crioxrtalllem"
 
   # Place of workship:
-  prossrran_house_of_worship:0 "temple"
+  prossrran_house_of_worship:0 "Prossrran Temple"
   prossrran_house_of_worship_2:0 "$prossrran_house_of_worship$"
   prossrran_house_of_worship_3:0 "$prossrran_house_of_worship$"
-  prossrran_house_of_worship_plural:0 "temples"
+  prossrran_house_of_worship_plural:0 "Prossrran Temples"
 
   # Simbols:
   prossrran_religious_symbol:0 "Triangle"
@@ -82,9 +82,9 @@
   prossrran_religious_symbol_3:0 "Hexagon"
   
   # Texts:
-  prossrran_religious_text:0 "union pantheon decree"
-  prossrran_religious_text_2:0 "drecree of just war"
-  prossrran_religious_text_3:0 "elemental scriptures"
+  prossrran_religious_text:0 "Union Pantheon Decree"
+  prossrran_religious_text_2:0 "Drecree of Just War"
+  prossrran_religious_text_3:0 "Elemental Scriptures"
 
   # Head of Faith:
   prossrran_religious_head_title:0 "Great Director of the Union"
@@ -92,38 +92,38 @@
 
   # Devotte:
   # Male:
-  prossrran_devotee_male:0 "path guide"
-  prossrran_devotee_male_plural:0 "path guiders"
+  prossrran_devotee_male:0 "Path Guide"
+  prossrran_devotee_male_plural:0 "Path Guiders"
   # Female:
-  prossrran_devotee_female:0 "path guide"
-  prossrran_devotee_female_plural:0 "path guiders"
+  prossrran_devotee_female:0 "Path Guide"
+  prossrran_devotee_female_plural:0 "Path Guiders"
   # Neuter:
-  prossrran_devotee_neuter:0 "path guide"
-  prossrran_devotee_neuter_plural:0 "path guiders"
+  prossrran_devotee_neuter:0 "Path Guide"
+  prossrran_devotee_neuter_plural:0 "Path Guiders"
 
   # Priest:
   # Male:
-  prossrran_priest_male:0 "path erudite"
-  prossrran_priest_male_plural:0 "path erudites"
+  prossrran_priest_male:0 "Path Erudite"
+  prossrran_priest_male_plural:0 "Path Erudites"
   # Female:
-  prossrran_priest_female:0 "path erudite"
-  prossrran_priest_female_plural:0 "path erudites"
+  prossrran_priest_female:0 "Path Erudite"
+  prossrran_priest_female_plural:0 "Path Erudites"
   # Neuter:
-  prossrran_priest_neuter:0 "path erudite"
-  prossrran_priest_neuter_plural:0 "path erudites"
+  prossrran_priest_neuter:0 "Path Erudite"
+  prossrran_priest_neuter_plural:0 "Path Erudites"
   # Alt:
-  prossrran_priest_alternate_plural:0 "erudites"
+  prossrran_priest_alternate_plural:0 "Erudites"
 
   # Bishop:
   # Male:
-  prossrran_bishop_male:0 "temple beacon"
-  prossrran_bishop_male_plural:0 "temple beacons"
+  prossrran_bishop_male:0 "Temple Beacon"
+  prossrran_bishop_male_plural:0 "Temple Beacons"
   # Female:
-  prossrran_bishop_female:0 "temple beacon"
-  prossrran_bishop_female_plural:0 "temple beacons"
+  prossrran_bishop_female:0 "tTemple Beacon"
+  prossrran_bishop_female_plural:0 "Temple Beacons"
   # Neuter:
-  prossrran_bishop_neuter:0 "temple beacon"
-  prossrran_bishop_neuter_plural:0 "temple beacons"
+  prossrran_bishop_neuter:0 "Temple Beacon"
+  prossrran_bishop_neuter_plural:0 "Temple Beacons"
 
   # Divine Realm:
   prossrran_divine_realm:0 "Xacrex Terrix"
@@ -142,4 +142,45 @@
   prossrran_witchgodname_the_horned_god_possessive:0 "the Speakers's"
 
 
-  # TODO: falta los nombres, descripciones, adjetivos y demas de las fes secundarias.
+  #------Faiths:
+  #----Tarkanism
+  tarkanism:0 "Tarkanism"
+  tarkanism_adj:0 "Tarkanist"
+  tarkanism_adherent:0 "Tarkanist"
+  tarkanism_adherent_plural:0 "Tarkanists"
+  tarkanism_desc:0 "By the Hammer and Wheel, enemies shall fall under the name of Tarkan."
+
+  #----Alantism:
+  alantism:0 "Alantism"
+  alantism_adj:0 "Alantist"
+  alantism_adherent:0 "Alantist"
+  alantism_adherent_plural:0 "Alantists"
+  alantism_desc:0 "Devoted by the laws of life and death, $alantism_adherent_plural$ create and preserve life in all their forms and ensure that death came at its time."
+
+  #----Miribelism:
+  miribelism:0 "Miribelism"
+  miribelism_adj:0 "Miribelistic"
+  miribelism_adherent:0 "Miribelistic"
+  miribelism_adherent_plural:0 "Miribelistics"
+  miribelism_desc:0 ""Followers of Miribel, endure the novels, texts and art of your God, as by so, life become more fair"-Aramix, Lord King of the first devotees of Miribel"
+
+  #----Etimism:
+  etimism:0 "Etimism"
+  etimism_adj:0 "Etimist"
+  etimism_adherent:0 "Etimist"
+  etimism_adherent_plural:0 "Etimists"
+  etimism_desc:0 "Science is the key of the Universe, everything around us is Science, is &prossrran_knowledge_god_name_possessive& will."
+
+  #----Xalemirism:
+  xalemirism:0 "Xalemirism"
+  xalemirism_adj:0 "Xalemirist"
+  xalemirism_adherent:0 "Xalemirist"
+  xalemirism_adherent_plural:0 "Xalemirists"
+  xalemirism_desc:0 "Energy flows throught every living thing in the Universe, as Masters, we keep the oath of mastering that energy to protect."
+
+  #----Bermixism:
+  bermixism:0 "Bermixism"
+  bermixism_adj:0 "Bermixist"
+  bermixism_adherent:0 "Bermixist"
+  bermixism_adherent_plural:0 "Bermixists"
+  bermixism_desc:0 "Throught commerce and water, administrations rose and endure. As so, we shall keep that wheel spinning."

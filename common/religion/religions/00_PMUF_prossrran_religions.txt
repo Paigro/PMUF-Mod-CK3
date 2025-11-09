@@ -313,11 +313,10 @@
 			doctrine = tenet_no_mind
             doctrine = tenet_armed_pilgrimages
 
-			holy_order_names = { # TODO
-				{ name = "holy_order_great_warriors_of_tarkan" coat_of_arms = "ho_knights_templar" }
-				{ name = "holy_order_order_of_the_great_hammer" coat_of_arms = "ho_knights_hospitaller"  }
-				{ name = "holy_order_order_of_the_wheel" coat_of_arms = "ho_teutonic_order"  }
-				{ name = "holy_order_sword_of_tarkan" coat_of_arms = "ho_order_of_calatrava"  }
+			holy_order_names = {
+				{ name = "holy_order_great_warriors_of_tarkan" }
+				{ name = "holy_order_order_of_the_great_hammer" }
+				{ name = "holy_order_order_of_the_wheel" }
 			}
 
 		}
@@ -336,16 +335,15 @@
 			doctrine = tenet_no_mind
 			doctrine = tenet_reincarnation
 
-			holy_order_names = { # TODO
-				{ name = "holy_order_order_of_the_death" coat_of_arms = "ho_knights_templar" }
-				{ name = "holy_order_preservers_of_life" coat_of_arms = "ho_knights_hospitaller"  }
-				{ name = "holy_order_creators_of_life" coat_of_arms = "ho_teutonic_order"  }
-				{ name = "holy_order_scythe_of_death" coat_of_arms = "ho_order_of_calatrava"  }
-				{ name = "holy_order_scythe_of_death" coat_of_arms = "ho_order_of_calatrava"  }
+			holy_order_names = {
+				{ name = "holy_order_death_stalkers" }
+				{ name = "holy_order_preservers_of_life" }
+				{ name = "holy_order_creators_of_life" }
+				{ name = "holy_order_scythe_of_death" }
 			}
 		}
         miribelism = {
-			color = { 1 0.5 0.2 }
+			color = { 1 0.5 0.3 }
 			icon = custom_faith_dove
 			
 			holy_site = bodh_gaya
@@ -359,16 +357,14 @@
 			doctrine = tenet_no_mind
 			doctrine = tenet_literalism
 
-			holy_order_names = { # TODO
-				{ name = "holy_order_order_of_the_death" coat_of_arms = "ho_knights_templar" }
-				{ name = "holy_order_preservers_of_life" coat_of_arms = "ho_knights_hospitaller"  }
-				{ name = "holy_order_creators_of_life" coat_of_arms = "ho_teutonic_order"  }
-				{ name = "holy_order_scythe_of_death" coat_of_arms = "ho_order_of_calatrava"  }
-				{ name = "holy_order_scythe_of_death" coat_of_arms = "ho_order_of_calatrava"  }
+			holy_order_names = {
+				{ name = "holy_order_order_of_the_letters" }
+				{ name = "holy_order_shield_of_paint_and_brushes" }
+				{ name = "holy_order_death_chisels"}
 			}
 		}
         etimism = {
-			color = { 1 0.5 0.2 }
+			color = { 1 0.5 0.4 }
 			icon = custom_faith_cool_s
 			
 			holy_site = bodh_gaya
@@ -382,16 +378,13 @@
 			doctrine = tenet_no_mind
 			doctrine = tenet_esotericism
 
-			holy_order_names = { # TODO
-				{ name = "holy_order_order_of_the_death" coat_of_arms = "ho_knights_templar" }
-				{ name = "holy_order_preservers_of_life" coat_of_arms = "ho_knights_hospitaller"  }
-				{ name = "holy_order_creators_of_life" coat_of_arms = "ho_teutonic_order"  }
-				{ name = "holy_order_scythe_of_death" coat_of_arms = "ho_order_of_calatrava"  }
-				{ name = "holy_order_scythe_of_death" coat_of_arms = "ho_order_of_calatrava"  }
+			holy_order_names = {
+				{ name = "holy_order_morgue_warriors" }
+				{ name = "holy_order_sword_of_the_universe" }
 			}
 		}
         xalemirism = {
-			color = { 1 0.5 0.2 }
+			color = { 1 0.5 0.5 }
 			icon = custom_faith_burning_bush
 			
 			holy_site = bodh_gaya
@@ -405,16 +398,19 @@
 			doctrine = tenet_no_mind
 			doctrine = tenet_monasticism
 
-			holy_order_names = { # TODO
-				{ name = "holy_order_order_of_the_death" coat_of_arms = "ho_knights_templar" }
-				{ name = "holy_order_preservers_of_life" coat_of_arms = "ho_knights_hospitaller"  }
-				{ name = "holy_order_creators_of_life" coat_of_arms = "ho_teutonic_order"  }
-				{ name = "holy_order_scythe_of_death" coat_of_arms = "ho_order_of_calatrava"  }
-				{ name = "holy_order_scythe_of_death" coat_of_arms = "ho_order_of_calatrava"  }
+			holy_order_names = {
+				{ name = "holy_order_energy_masters" }
+				{ name = "holy_order_wind_masters" }
+				{ name = "holy_order_rock_masters" }
+				{ name = "holy_order_water_masters" }
+				{ name = "holy_order_fire_masters" }
+				{ name = "holy_order_nature_masters" }
+				{ name = "holy_order_light_masters" }
+				{ name = "holy_order_dark_masters" }
 			}
 		}
         bermixism = {
-			color = { 1 0.5 0.2 }
+			color = { 1 0.5 0.6 }
 			icon = custom_faith_ichthys
 			
 			holy_site = bodh_gaya
@@ -424,16 +420,14 @@
 			holy_site = alexandria
 
 			#Tenets
-			doctrine = tenet_mendicant_preachers
+			doctrine = tenet_mendicant_preachers # TODO: seguro?
 			doctrine = tenet_no_mind
 			doctrine = tenet_hedonistic
 
-			holy_order_names = { # TODO
-				{ name = "holy_order_order_of_the_death" coat_of_arms = "ho_knights_templar" }
-				{ name = "holy_order_preservers_of_life" coat_of_arms = "ho_knights_hospitaller"  }
-				{ name = "holy_order_creators_of_life" coat_of_arms = "ho_teutonic_order"  }
-				{ name = "holy_order_scythe_of_death" coat_of_arms = "ho_order_of_calatrava"  }
-				{ name = "holy_order_scythe_of_death" coat_of_arms = "ho_order_of_calatrava"  }
+			holy_order_names = {
+				{ name = "holy_order_warriors_of_the_sea" }
+				{ name = "holy_order_money_collectors" }
+				{ name = "holy_order_caravaners_protectors" }
 			}
 		}
     }

@@ -1,1 +1,45 @@
-﻿
+﻿l_english:
+  #------Prossrran religion :
+  #----Common:
+  holy_order_order_of_the_elements:0 "Order of the Elements"
+  holy_order_knights_of_tarkan:0 "Knights of Tarkan"
+  holy_order_orators_of_miribel:0 "Orators of Miribel"
+  holy_order_erudites_of_etim:0 "Erudites of Etim"
+  holy_order_masters_of_xalemir:0 "Masters of Xalemir"
+  holy_order_life_enders_of_alant:0 "Life-Enders of Alant"
+  holy_order_knights_of_bermix:0 "Knights of Bermix"
+
+  #----Tarkanism:
+  holy_order_great_warriors_of_tarkan:0 "Great Warriors of Tarkan"
+  holy_order_order_of_the_great_hammer:0 "Order of the Great Hammer"
+  holy_order_order_of_the_wheel:0 "Order of the Wheel of Tarkan"
+
+  #----Atlantism:
+  holy_order_death_stalkers:0 "Death Stalkers"
+  holy_order_preservers_of_life:0 "Preservers of Life"
+  holy_order_creators_of_life:0 "Creators of Life"
+  holy_order_scythe_of_death:0 "Scythe of Death"
+
+  #----Miribelism:
+  holy_order_order_of_the_letters:0 "Order of the Letters"
+  holy_order_shield_of_paint_and_brushes:0 "Shield of Paint and Brushes"
+  holy_order_death_chisels:0 "Death Chisel's"
+
+  #----Etimism:
+  holy_order_morgue_warriors:0 "Morgue Warriors"
+  holy_order_sword_of_the_universe:0 "Sword of the Universe"
+
+  #----Xalemirism:
+  holy_order_energy_masters:0 "Energy Masters"
+  holy_order_wind_masters:0 "Wind Masters"
+  holy_order_rock_masters:0 "Rock Masters"
+  holy_order_water_masters:0 "Water Masters"
+  holy_order_fire_masters:0 "Fire Masters"
+  holy_order_nature_masters:0 "Nature Masters"holy_order_caravaners_protectors
+  holy_order_light_masters:0 "Light Masters"
+  holy_order_dark_masters:0 "Dark Masters"
+
+  #----Bermixism:
+  holy_order_warriors_of_the_sea:0 "Warriors of the Sea"
+  holy_order_money_collectors:0 "Money Collectors"
+  holy_order_caravaners_protectors:0 "Caravaners Protectors"

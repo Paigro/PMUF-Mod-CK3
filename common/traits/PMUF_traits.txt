@@ -18,7 +18,7 @@
 	vassal_opinion = -20
 	
 	#genetic = yes
-	random_creation = 0
+	#random_creation = 0
 	
 	#birth = 1
 	inherit_chance = 100
